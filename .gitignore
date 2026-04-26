@@ -65,6 +65,9 @@ config/*.toml
 api_state.json
 images/
 datasets/
+!scripts/datasets/
+!scripts/datasets/extract_frames_from_mp4s.py
+mp4s/
 .test_runner_state
 .test_runner_state.json
 .coverage
