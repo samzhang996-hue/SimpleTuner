@@ -85,3 +85,5 @@ site/
 tunableop_results*.csv
 
 dataset/
+person_lora_bundle*.tar.gz
+person_lora_bundle/
